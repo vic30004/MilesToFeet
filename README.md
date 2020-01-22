@@ -12,6 +12,6 @@ Once you confirm and add your input, the application will return the converted v
 
 This application was in C#
 
-# How to run application
+# How to run the application
 
 Clone the repo and run the application using your preferred IDE.

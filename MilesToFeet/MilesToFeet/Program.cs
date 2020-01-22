@@ -28,7 +28,7 @@ namespace MilesToFeet
                 bool value = int.TryParse(userValue, out number);
                 if (value)
                 {
-                    convertToFeet(number);
+                    convertedValue=convertToFeet(number);
                     Console.WriteLine("{0} miles is {1} feet", number,convertedValue );
                 }
                 else
